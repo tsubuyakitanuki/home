@@ -5,7 +5,9 @@ FROM continuumio/anaconda3:2019.03
 RUN pip install --upgrade pip && \
     pip install autopep8 && \
     pip install Keras && \
-    pip install tensorflow 
+    pip install tensorflow && \
+    apt-get update && \
+    apt-get install -y build-essential cmake clang
 
 # コンテナ側のルート直下にworkdir/（任意）という名前の作業ディレクトリを作り移動する
 WORKDIR /workdir

@@ -1,0 +1,16 @@
+/workdir/myapp/bin/Debug/net5.0/myapp
+/workdir/myapp/bin/Debug/net5.0/myapp.deps.json
+/workdir/myapp/bin/Debug/net5.0/myapp.runtimeconfig.json
+/workdir/myapp/bin/Debug/net5.0/myapp.runtimeconfig.dev.json
+/workdir/myapp/bin/Debug/net5.0/myapp.dll
+/workdir/myapp/bin/Debug/net5.0/ref/myapp.dll
+/workdir/myapp/bin/Debug/net5.0/myapp.pdb
+/workdir/myapp/obj/Debug/net5.0/myapp.csproj.AssemblyReference.cache
+/workdir/myapp/obj/Debug/net5.0/myapp.GeneratedMSBuildEditorConfig.editorconfig
+/workdir/myapp/obj/Debug/net5.0/myapp.AssemblyInfoInputs.cache
+/workdir/myapp/obj/Debug/net5.0/myapp.AssemblyInfo.cs
+/workdir/myapp/obj/Debug/net5.0/myapp.csproj.CoreCompileInputs.cache
+/workdir/myapp/obj/Debug/net5.0/myapp.dll
+/workdir/myapp/obj/Debug/net5.0/ref/myapp.dll
+/workdir/myapp/obj/Debug/net5.0/myapp.pdb
+/workdir/myapp/obj/Debug/net5.0/myapp.genruntimeconfig.cache

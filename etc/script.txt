@@ -1,0 +1,6 @@
+# バッチモードに設定し、確認/問い合わせを無効にする
+option batch on
+# ファイル上書きの確認などを無効にする
+option confirm off
+# なおパスワードを指定して接続するには次のようにする
+open ftp://user1:tanuki@localhost:21
